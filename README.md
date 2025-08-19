@@ -31,3 +31,4 @@ This Android application is developed as part of a practical assignment to **dem
 
 ## 📂 Project Structure
 ![Image Alt](https://github.com/tirthunderscore67/MAD_23012011030_Practical-2/blob/ef47b562a750e339d1ebe71f97f6fb714c004ac6/Screenshot%202025-08-19%20093145.png)
+![Image Alt](https://github.com/tirthunderscore67/MAD_23012011030_Practical-2/blob/a6a740f890d297d9a49527d005378ebedfb538a3/Screenshot%202025-08-19%20093411.png)
